@@ -8,7 +8,6 @@ attrs==19.3.0
 azure-core==1.7.0
 azure-storage-blob==12.3.2
 backcall==0.2.0
--e git+git@github.com:quantopian/bayesalpha.git@676f4f194ad20211fd040d3b0c6e82969aafb87e#egg=bayesalpha
 bleach==3.1.5
 bokeh==2.1.1
 Bottleneck==1.3.2
